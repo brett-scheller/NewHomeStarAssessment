@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="Linked-in" transform="translate(-57 840)">
+    <circle id="BG" cx="16" cy="16" r="16" transform="translate(57 -840)" fill="#fafafa"/>
+    <path id="Icon" d="M17.963,17.963H13.972V11.177a2.169,2.169,0,0,0-2.2-1.9,1.876,1.876,0,0,0-1.8,1.9v6.786H5.988V5.988H9.98v2a4.652,4.652,0,0,1,3.493-1.8,4.472,4.472,0,0,1,4.491,4.491v7.285m-13.972,0H0V5.988H3.992V17.963M2,0A2,2,0,1,1,0,2,2,2,0,0,1,2,0Z" transform="translate(64.018 -832.982)" fill="#5a6b88"/>
+  </g>
+</svg>
